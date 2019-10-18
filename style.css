@@ -1,0 +1,21 @@
+body {
+  margin: 300px;
+}
+
+.div1 {
+  text-align: center;
+  color: aqua;
+  font-size: 40px;
+}
+
+.div2 {
+  text-align: center;
+  color: rgb(92, 105, 105);
+  font-size: 30px;
+}
+
+.div3 {
+  text-align: center;
+  color: purple;
+  font-size: 20px;
+}
