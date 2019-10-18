@@ -1,21 +1,12 @@
-body {
-  margin: 300px;
-}
-
-.div1 {
+div {
   text-align: center;
-  color: aqua;
-  font-size: 40px;
 }
-
-.div2 {
-  text-align: center;
-  color: rgb(92, 105, 105);
-  font-size: 30px;
+.alpha {
+  color: rgb(62, 179, 87);
 }
-
-.div3 {
-  text-align: center;
-  color: purple;
-  font-size: 20px;
+.bravo {
+  color: rgb(126, 11, 101);
+}
+.charlie {
+  color: rgb(226, 155, 23);
 }
